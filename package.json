@@ -1,6 +1,6 @@
 {
   "name": "storyshots-tape",
-  "version": "3.0.0-alpha.1",
+  "version": "1.0.0",
   "description": "StoryShots with Tape is a Tape/Enzyme Snapshot Testing Addon for Storybook.",
   "repository": {
     "type": "git",
@@ -33,18 +33,18 @@
     "babel-register": "^6.24.1",
     "commitizen": "^2.9.6",
     "cz-conventional-changelog": "^2.0.0",
-    "enzyme": "^2.8.2",
     "faucet": "^0.0.1",
     "react": "^15.5.4",
     "react-addons-test-utils": "^15.5.1",
     "react-dom": "^15.5.4",
     "react-test-renderer": "^15.5.4",
     "semantic-release": "^6.3.6",
-    "snapshotter": "^1.0.4",
-    "tape": "^4.6.3",
     "tape-watch": "^2.3.0"
   },
   "dependencies": {
+    "enzyme": "^2.8.2",
+    "tape": "^4.6.3",
+    "snapshotter": "^1.0.4",
     "babel-runtime": "^6.23.0",
     "prop-types": "^15.5.10",
     "read-pkg-up": "^2.0.0"
