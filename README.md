@@ -1,4 +1,7 @@
 # StoryShots with Tape and Enzyme
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Thram/storyshots-tape.svg)](https://greenkeeper.io/)
+
 StoryShots adds automatic Tape/Enzyme Snapshot Testing for [Storybook](https://storybooks.js.org/).
 
 This addon works with Storybook for:
